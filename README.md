@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayjid Alom</h1><br><h3 align="center">A passionate frontend development learner from Bangladesh.</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bayjidalom) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bayjidalom.jihad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bayjid-codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bayjidalom1005@gmail.com) 
@@ -16,8 +18,6 @@
 ![](https://streak-stats.demolab.com/?user=bayjidalom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
