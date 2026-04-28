@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bayjid Alom</h1><br><h3 align="center">A passionate frontend development learner from Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Bayjid Alom</h1> <br> 
+<h3 align="center">A passionate frontend development learner from Bangladesh.</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
