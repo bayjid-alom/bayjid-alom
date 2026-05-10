@@ -1,4 +1,5 @@
 ![image alt](https://github.com/bayjidalom/bayjidalom/blob/a4010a82ad326547265584fa375e004555b97088/banner-02.png)
+<br>
 <h1 align="center">Hi 👋, I'm Bayjid Alom</h1> <br> 
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
 
