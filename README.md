@@ -1,6 +1,8 @@
 ![image alt](https://github.com/bayjidalom/bayjidalom/blob/a4010a82ad326547265584fa375e004555b97088/banner-02.png)
 <br>
-<h1 align="center">Hi 👋, I'm Bayjid Alom</h1> <br> 
+<h1 align="center">
+  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Bayjid+Alom alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
 
 ## 🏆 GitHub Trophies
