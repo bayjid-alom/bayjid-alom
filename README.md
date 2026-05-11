@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Bayjid+Alom alt="Typing SVG" />
+  <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1200&color=58A6FF&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Bayjid+Alom alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
