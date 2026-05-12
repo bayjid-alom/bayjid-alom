@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src=https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=600&duration=4500&lines=Hi+there!+👋;I'm+Bayjid+Alom />
 </h1>
-<h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>  <br><br>
+<h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>  <br>
 
 
 ## 🏆 GitHub Trophies
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p> <br><br>
+</p> <br>
 
 
 ## 📊 GitHub Stats:
@@ -38,8 +38,7 @@
 <img src="https://github-readme-stats.shion.dev/api?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/> <br>
  <img src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/><br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p> <br><br> 
-
+</p> <br>
 
 
 ### 🔥 Thoughts & Philosophy
