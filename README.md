@@ -37,17 +37,17 @@
 <p align="center">
 <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/> <br>
  <img width=390 src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/><br>
-<img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img width=325  src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p> <br>
 
 
-### 🔥 Thoughts & Philosophy
+## 🔥 Thoughts & Philosophy
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
- <br>
+
 
 
 ## 👁️‍🗨️ Profile Views
