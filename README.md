@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src=https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=600&duration=4500&lines=Hi+there!+👋;I'm+Bayjid+Alom />
+  <img src=https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=600&duration=4500&lines=Hi+there!+👋;I'm+Bayjid+Alom! />
 </h1>
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>  <br>
 
