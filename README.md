@@ -1,53 +1,79 @@
 ![image alt](https://github.com/bayjidalom/bayjidalom/blob/a4010a82ad326547265584fa375e004555b97088/banner-02.png)
 <br>
 
-
 <h1 align="center">
   <img src=https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=600&duration=4500&lines=Hi+there!+👋;I'm+Bayjid+Alom! />
 </h1>
-<h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>  <br>
 
+<h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br><br>
-
-
-## 🔗 Let’s Connect
-<p align="center">
-  <a href="https://discord.gg/bayjidalom"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/> </a>
-  <a href="https://facebook.com/bayjidalom.jihad">  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  <a href="https://youtube.com/@bayjid-codex"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>  </a>
-  <a href="mailto:bayjidalom1005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> </a>
-</p> <br>
-
-
-<!-- Snake Game Repo View -->
+## 🔗 Connect with Me
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Shake animation" />
-</div> <br>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=9D8FFF)](https://github.com/bayjidalom)
+[![Facebook](https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=9D8FFF)](https://www.facebook.com/bayjidalom.jihad)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:bayjidalom1005@gmail.com)
+
+</div>
+
+<!--
+## 🔗 Let’s Connect
+<p align="center"><a href="https://discord.gg/bayjidalom"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/> </a>
+<a href="https://facebook.com/bayjidalom.jihad"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> </a>
+<a href="https://youtube.com/@bayjid-codex">  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/> </a>
+<a href="mailto:bayjidalom1005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> </a></p>        <br>     -->
 
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p> <br>
+</p>
+<br>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
-<img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/> <br>
- <img width=390 src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/><br>
-<img width=325  src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p> <br>
+  <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
+  <br>
 
+  <img width=390 src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/>
+  <br>
+
+  <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+<br>
+
+
+## 📈 Contribution Graph
+<div align="center">
+
+[![Bayjid's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayjidalom&bg_color=0f0c29&color=58A6FF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/bayjidalom)
+
+</div>
+<br>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br><br>
+
+<!-- Snake Game Repo View -->
+<!--
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br> -->
 
 ## 🔥 Thoughts & Philosophy
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
+<br>
 
 
 ## 👁️‍🗨️ Profile Views
@@ -56,10 +82,7 @@
 </p>
 
 
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bayjidalom&limit=5&theme=dark&combine_all_yearly_contributions=true)   -->
-
-
+<!--Footer wave-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Code%20•%20Create%20•%20Innovate&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
 
 
