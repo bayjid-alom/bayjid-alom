@@ -35,21 +35,21 @@
 <br>
 
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjid-alom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
+
+  <img width="390" src="https://github-readme-stats.shion.dev/api?username=bayjid-alom&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"/>
   <br>
 
-  <img width=390 src="https://streak-stats.demolab.com/?user=bayjid-alom&theme=gotham&hide_border=false"/>
+  <img width="390" src="https://streak-stats.demolab.com/?user=bayjid-alom&theme=blue_navy&hide_border=false"/>
   <br>
 
-   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayjid-alom&theme=gotham&hide_border=true&layout=compact" />
+  <img width="325" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjid-alom&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </p>
 <br><br>
-
-
-
 
 
 ## 📈 Contribution Graph
