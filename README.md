@@ -7,6 +7,7 @@
 
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
 <br>
+<br>
 
 ## 🔗 Connect with Me
 <div align="center">
@@ -16,6 +17,7 @@
 [![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:bayjidalom1005@gmail.com)
 
 </div>
+<br>
 
 <!--
 ## 🔗 Let’s Connect
@@ -30,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 <br>
+<br>
 
 
 ## 📊 GitHub Stats
@@ -42,7 +45,7 @@
 
   <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
-<br>
+<br><br>
 
 
 ## 📈 Contribution Graph
@@ -51,7 +54,7 @@
 [![Bayjid's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayjidalom&bg_color=0f0c29&color=58A6FF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/bayjidalom)
 
 </div>
-<br>
+<br><br>
 
 ## 🏆 GitHub Trophies
 
