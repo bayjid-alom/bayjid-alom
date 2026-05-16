@@ -12,7 +12,7 @@
 ## 🔗 Connect with Me
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=9D8FFF)](https://github.com/bayjidalom)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=9D8FFF)](https://github.com/bayjid-alom)
 [![Facebook](https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=9D8FFF)](https://www.facebook.com/bayjidalom.jihad)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:bayjidalom1005@gmail.com)
 
@@ -40,12 +40,16 @@
   <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjid-alom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
   <br>
 
-  <img width=390 src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=bayjid-alom&theme=gotham&hide_border=false"/>
   <br>
 
-  <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjid-alom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayjid-alom&theme=gotham&hide_border=true&layout=compact" />
+
 </p>
 <br><br>
+
+
+
 
 
 ## 📈 Contribution Graph
