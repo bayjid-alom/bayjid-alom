@@ -1,4 +1,4 @@
-![image alt](https://github.com/bayjidalom/bayjidalom/blob/a4010a82ad326547265584fa375e004555b97088/banner-02.png)
+![image alt](https://github.com/bayjid-alom/bayjidalom/blob/155ae10104521be4c9d9e051182ede8f39e86182/banner-02.png)
 <br>
 
 <h1 align="center">
@@ -37,13 +37,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width=390 src="https://github-readme-stats.shion.dev/api?username=bayjid-alom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
   <br>
 
   <img width=390 src="https://streak-stats.demolab.com/?user=bayjidalom&theme=gotham&hide_border=false"/>
   <br>
 
-  <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjidalom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjid-alom&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 <br><br>
 
@@ -51,14 +51,14 @@
 ## 📈 Contribution Graph
 <div align="center">
 
-[![Bayjid's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayjidalom&bg_color=0f0c29&color=58A6FF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/bayjidalom)
+[![Bayjid's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayjid-alom&bg_color=0f0c29&color=58A6FF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/bayjid-alom)
 
 </div>
 <br><br>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bayjidalom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bayjid-alom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br><br>
 
