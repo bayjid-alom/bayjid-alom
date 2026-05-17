@@ -52,7 +52,7 @@
 </p>
 <br><br>  -->
 
-<!--Stats 02 -->
+<!--Stats 02 (i) -->
 <!--
 ## 📊 GitHub Stats
 
@@ -70,7 +70,7 @@
 <br><br>  -->
 
 
-<!--Stats 02 🟢-->
+<!--Stats 02 (ii) 🟢-->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 <br><br>
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View (Fun) -->
 <!--
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -126,7 +126,7 @@
 </p>
 
 
-<!--Footer wave-->
+<!--Footer-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Code%20•%20Create%20•%20Innovate&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
 
 
