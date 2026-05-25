@@ -70,7 +70,8 @@
 <br><br>  -->
 
 
-<!--Stats 02 (ii) 🟢-->
+<!--Stats 02 (ii) -->
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,10 +85,10 @@
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
 
 </div>
-<br><br>
+<br><br>   -->
 
-<!--Stats 02 (iii) Bright Text -->
-<!--
+<!--Stats 02 (iii) 🟢 Bright Text -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -101,7 +102,7 @@
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
 
 </div>
-<br><br>   -->
+<br><br>   
 
 
 
