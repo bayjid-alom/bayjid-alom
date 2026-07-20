@@ -52,6 +52,8 @@
 </p>
 <br><br>  -->
 
+
+
 <!--Stats 02 (i) -->
 <!--
 ## 📊 GitHub Stats
@@ -70,6 +72,8 @@
 <br><br>  -->
 
 
+
+
 <!--Stats 02 (ii) -->
 <!--
 ## 📊 GitHub Stats
@@ -86,6 +90,9 @@
 
 </div>
 <br><br>   -->
+
+
+
 
 <!--Stats 02 (iii) 🟢 Bright Text -->
 
@@ -114,11 +121,14 @@
 </div>
 <br><br>
 
+
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=bayjid-alom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br><br>
+<br><br>    -->
+
 
 <!-- Snake Game Repo View (Fun) -->
 <!--
@@ -145,5 +155,20 @@
 
 <!--Footer-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Code%20•%20Create%20•%20Innovate&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
+
+
+<!--Stats-->
+<!--
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bayjid-alom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
+
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bayjid-alom&count_private=true&theme=react&border_radius=10&background=0D1117" alt="streak stats"/>
+
+  <br><br>
+
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
+
+</div>
+<br><br>    -->
 
 
