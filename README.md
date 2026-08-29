@@ -1,4 +1,4 @@
-![image alt](https://github.com/bayjid-alom/bayjidalom/blob/155ae10104521be4c9d9e051182ede8f39e86182/banner-02.png)
+![image alt](https://github.com/bayjid-alom/bayjid-alom/blob/a0a109fc12b72f2c306edb07b6ffcc25a91a7cdd/assets/banner/primary-banner.png)
 <br>
 
 <h1 align="center">
