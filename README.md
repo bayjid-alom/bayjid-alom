@@ -1,6 +1,9 @@
 ![image alt](https://github.com/bayjid-alom/bayjid-alom/blob/a0a109fc12b72f2c306edb07b6ffcc25a91a7cdd/assets/banner/primary-banner.png)
 <br>
 
+
+
+
 <h1 align="center">
   <img src=https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=600&duration=4500&lines=Hi+there!+👋;I'm+Bayjid+Alom! />
 </h1>
@@ -8,6 +11,12 @@
 <h3 align="center">A passionate and aspiring Web developer from Bangladesh | Turning ideas into real-world projects.</h3>
 <br>
 <br>
+
+
+
+
+
+
 
 ## 🔗 Connect with Me
 <div align="center">
@@ -19,12 +28,22 @@
 </div>
 <br>
 
+
+
+
+
+
 <!--
 ## 🔗 Let’s Connect
 <p align="center"><a href="https://discord.gg/bayjidalom"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/> </a>
 <a href="https://facebook.com/bayjidalom.jihad"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> </a>
 <a href="https://youtube.com/@bayjid-codex">  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/> </a>
 <a href="mailto:bayjidalom1005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> </a></p>        <br>     -->
+
+
+
+
+
 
 
 ## 🛠️ Tech Stack
@@ -35,81 +54,9 @@
 <br>
 
 
-<!--Stats 01 (Dark - Grade)-->
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img width="390" src="https://github-readme-stats.shion.dev/api?username=bayjid-alom&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"/>
-  <br>
-
-  <img width="390" src="https://streak-stats.demolab.com/?user=bayjid-alom&theme=blue_navy&hide_border=false"/>
-  <br>
-
-  <img width="325" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bayjid-alom&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
-</p>
-<br><br>  -->
 
 
 
-<!--Stats 02 (i) -->
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bayjid-alom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br>
-
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bayjid-alom&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
-
-</div>
-<br><br>  -->
-
-
-
-
-<!--Stats 02 (ii) -->
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bayjid-alom&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br>
-
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bayjid-alom&count_private=true&theme=github-dark-blue&border_radius=10" alt="streak stats"/>
-  <br/>
-
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
-
-</div>
-<br><br>   -->
-
-
-
-
-<!--Stats 02 (iii) 🟢 Bright Text -->
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bayjid-alom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
-  <br>
-
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bayjid-alom&count_private=true&theme=react&border_radius=10&background=0D1117" alt="streak stats"/>
-  <br/>
-
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
-
-</div>
-<br><br>   -->
 
 
 
@@ -145,6 +92,10 @@
 
 
 
+
+
+
+
 ## 📈 Contribution Graph
 <div align="center">
 
@@ -152,6 +103,10 @@
 
 </div>
 <br><br>
+
+
+
+
 
 
 <!--
@@ -170,6 +125,11 @@
 
 <br> -->
 
+
+
+
+
+
 ## 🔥 Thoughts & Philosophy
 <div align="center">
 
@@ -179,28 +139,18 @@
 <br>
 
 
+
+
+
+
+<!--
 ## 👁️‍🗨️ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bayjidalom&style=flat-square&color=0e75b6&label=Profile+Views"/>
-</p>
+</p>  -->
+
+
 
 
 <!--Footer-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Code%20•%20Create%20•%20Innovate&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
-
-
-<!--Stats-->
-<!--
-<div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bayjid-alom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
-
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bayjid-alom&count_private=true&theme=react&border_radius=10&background=0D1117" alt="streak stats"/>
-
-  <br><br>
-
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bayjid-alom&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="top langs" />
-
-</div>
-<br><br>    -->
-
-
